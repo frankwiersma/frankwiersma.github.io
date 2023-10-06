@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Hi I'm Frank!](README.md)
 
 ## About us
 
